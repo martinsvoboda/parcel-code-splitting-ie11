@@ -5,8 +5,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@parcel/babel-plugin-transform-runtime": "^2.0.0-nightly.1823",
-    "@parcel/babel-preset-env": "^2.0.0-alpha.3",
+    "@parcel/babel-plugin-transform-runtime": "^2.0.0-beta.2",
+    "@parcel/babel-preset-env": "^2.0.0-beta.2",
     "parcel": "^2.0.0-beta.2"
   },
   "browserslist": "IE 11"
